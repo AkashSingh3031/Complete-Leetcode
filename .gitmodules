@@ -22,3 +22,9 @@
 [submodule "1_Leetcode_Algorithms/03_Hash_Table"]
 	path = 1_Leetcode_Algorithms/03_Hash_Table
 	url = https://github.com/AkashSingh3031/Leetcode-Hash-Table.git
+[submodule "1_Leetcode_Algorithms/04_Dynamic_Programming"]
+	path = 1_Leetcode_Algorithms/04_Dynamic_Programming
+	url = https://github.com/AkashSingh3031/Leetcode-Dynamic-Programming.git
+[submodule "1_Leetcode_Algorithms/05_Math"]
+	path = 1_Leetcode_Algorithms/05_Math
+	url = https://github.com/AkashSingh3031/Leetcode-Math.git
