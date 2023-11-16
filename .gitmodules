@@ -16,3 +16,6 @@
 [submodule "1_Leetcode_Algorithms/01_Array"]
 	path = 1_Leetcode_Algorithms/01_Array
 	url = https://github.com/AkashSingh3031/Leetcode-Array.git
+[submodule "1_Leetcode_Algorithms/02_String"]
+	path = 1_Leetcode_Algorithms/02_String
+	url = https://github.com/AkashSingh3031/Leetcode-String.git
