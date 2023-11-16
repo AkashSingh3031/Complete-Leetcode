@@ -19,3 +19,6 @@
 [submodule "1_Leetcode_Algorithms/02_String"]
 	path = 1_Leetcode_Algorithms/02_String
 	url = https://github.com/AkashSingh3031/Leetcode-String.git
+[submodule "1_Leetcode_Algorithms/03_Hash_Table"]
+	path = 1_Leetcode_Algorithms/03_Hash_Table
+	url = https://github.com/AkashSingh3031/Leetcode-Hash-Table.git
