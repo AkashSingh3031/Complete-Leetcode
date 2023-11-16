@@ -1,0 +1,18 @@
+[submodule "2_Leetcode_Database"]
+	path = 2_Leetcode_Database
+	url = https://github.com/AkashSingh3031/Leetcode-Database.git
+[submodule "3_Leetcode_Pandas"]
+	path = 3_Leetcode_Pandas
+	url = https://github.com/AkashSingh3031/Leetcode-Pandas.git
+[submodule "4_Leetcode_JavaScript"]
+	path = 4_Leetcode_JavaScript
+	url = https://github.com/AkashSingh3031/Leetcode-JavaScript.git
+[submodule "5_Leetcode_Shell"]
+	path = 5_Leetcode_Shell
+	url = https://github.com/AkashSingh3031/Leetcode-Shell.git
+[submodule "6_Leetcode_Concurrency"]
+	path = 6_Leetcode_Concurrency
+	url = https://github.com/AkashSingh3031/Leetcode-Concurrency.git
+[submodule "1_Leetcode_Algorithms/01_Array"]
+	path = 1_Leetcode_Algorithms/01_Array
+	url = https://github.com/AkashSingh3031/Leetcode-Array.git
